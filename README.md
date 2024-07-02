@@ -24,7 +24,7 @@ Purpose: The platform aims to solve the problem of food wastage and hunger by fa
 Clone the project
 
 ```bash
-  git clone https://github.com/Sarfaraj525/hue-haven-hub
+  git clone https://github.com/Sarfaraj525/share-plate
 ```
 
 Go to the project directory
